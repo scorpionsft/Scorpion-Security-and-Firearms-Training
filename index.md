@@ -9,7 +9,7 @@ title: SSFT Home
 ### Gunsmithing
 <br>
 ## About Us
-![Director](/Assets/Images/director.jpg) <br>
+![Director](/Assets/Images/director.jpeg) <br>
 Scorpion is comprised of prior and current military, Law Enforcement, and other security and firearms industry professionals. <br>
 Our Commitment to the pursuit of excellence is what sets us apart from other firearms outfits. <br>
 We are here to proved quality firearms education, training, and security available to everyone.
